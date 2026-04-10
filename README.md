@@ -106,6 +106,7 @@ En esta tarea se crearán y configurarán cuentas de usuario. Las cuentas de usu
 
 1. En el panel **Administrar (Manage)**, seleccionamos **Usuarios**.
 <img width="338" height="677" alt="2" src="https://github.com/user-attachments/assets/2b7f0cde-b158-435d-8b51-48c77bb0118f" />
+
 3. En el menú desplegable **Nuevo usuario**, seleccionamos **Crear nuevo usuario**.
 <img width="1093" height="758" alt="4" src="https://github.com/user-attachments/assets/10ae83ea-7a56-4f9a-982c-36e98084905f" />
 
@@ -122,6 +123,7 @@ En esta tarea se crearán y configurarán cuentas de usuario. Las cuentas de usu
 | Ubicación de uso         | United States        |
 
 <img width="1021" height="838" alt="5" src="https://github.com/user-attachments/assets/51016f36-5634-4efe-bae9-4e2ce145083a" />
+
 <img width="1057" height="743" alt="6" src="https://github.com/user-attachments/assets/5255cefd-8053-46b2-be00-9f4bc8da8900" />
 
 1. Seleccionamos **Revisar + crear** y luego **Crear**.
