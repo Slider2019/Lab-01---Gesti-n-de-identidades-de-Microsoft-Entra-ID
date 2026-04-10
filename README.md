@@ -105,9 +105,9 @@ En esta tarea se crearán y configurarán cuentas de usuario. Las cuentas de usu
 ### 🔹 Crear un nuevo usuario (manual)
 
 1. En el panel **Administrar (Manage)**, seleccionamos **Usuarios**.
-   <img width="338" height="677" alt="2" src="https://github.com/user-attachments/assets/2b7f0cde-b158-435d-8b51-48c77bb0118f" />
+<img width="338" height="677" alt="2" src="https://github.com/user-attachments/assets/2b7f0cde-b158-435d-8b51-48c77bb0118f" />
 3. En el menú desplegable **Nuevo usuario**, seleccionamos **Crear nuevo usuario**.
-   <img width="1093" height="758" alt="4" src="https://github.com/user-attachments/assets/10ae83ea-7a56-4f9a-982c-36e98084905f" />
+<img width="1093" height="758" alt="4" src="https://github.com/user-attachments/assets/10ae83ea-7a56-4f9a-982c-36e98084905f" />
 
 5. Configuramos el usuario con los siguientes valores:
 
@@ -125,7 +125,7 @@ En esta tarea se crearán y configurarán cuentas de usuario. Las cuentas de usu
 <img width="1057" height="743" alt="6" src="https://github.com/user-attachments/assets/5255cefd-8053-46b2-be00-9f4bc8da8900" />
 
 1. Seleccionamos **Revisar + crear** y luego **Crear**.
-   <img width="1057" height="743" alt="6" src="https://github.com/user-attachments/assets/094d5de2-0640-4282-9541-d150af7b5ebf" />
+<img width="1057" height="743" alt="6" src="https://github.com/user-attachments/assets/094d5de2-0640-4282-9541-d150af7b5ebf" />
 
 3. Actualizamos la página y confirmamos que el nuevo usuario fue creado.  
 <img width="1920" height="842" alt="8" src="https://github.com/user-attachments/assets/6aa47050-6b79-486e-bd40-aab81542ddfc" />
