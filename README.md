@@ -194,8 +194,11 @@ En esta tarea se creará una cuenta de grupo. Las cuentas de grupo pueden inclui
 ---
 
 1. En el **portal de Azure**, buscamos y seleccionamos **Microsoft Entra ID**.
+
 <img width="281" height="887" alt="1" src="https://github.com/user-attachments/assets/0732e0c0-c115-4af2-a0c6-2f30197d4162" />
+
 3. En el panel **Administrar (Manage)**, seleccionamos **Grupos (Groups)**.
+
 <img width="338" height="677" alt="2" src="https://github.com/user-attachments/assets/99911491-17b4-4da3-bf93-2b1cfa6db61e" />
 
 5. Creamos un nuevo grupo con los siguientes valores:
@@ -208,10 +211,12 @@ En esta tarea se creará una cuenta de grupo. Las cuentas de grupo pueden inclui
 | Tipo de membresía | Asignada (Assigned)                  |
 
 1. Asignamos propietarios y miembros (Bruce Wayne y el usuario invitado).
+ 
 <img width="1920" height="847" alt="13" src="https://github.com/user-attachments/assets/caa667f5-dff6-4fb9-ab7d-4e8217227fa0" />
 <img width="1920" height="888" alt="14" src="https://github.com/user-attachments/assets/4b68e8ec-fd52-4d92-869e-3aadf06cac25" />
 
-3. Confirmamos la creación y revisamos la información de miembros y propietarios.  
+3. Confirmamos la creación y revisamos la información de miembros y propietarios.
+
 <img width="802" height="836" alt="15" src="https://github.com/user-attachments/assets/af2bfe0a-0b52-44fe-a63b-610458663d9a" />
 <img width="1920" height="843" alt="16" src="https://github.com/user-attachments/assets/b36663e0-529a-4553-a10b-f3f4ef532ddc" />
 <img width="1683" height="845" alt="17" src="https://github.com/user-attachments/assets/604e2178-6f32-4c69-acad-36a72f6ee370" />
